@@ -24,4 +24,3 @@ Create a REST API on CodeIgniter framework for posting various articles to the d
 
 Do as much as you can and send us the code in archive (.zip) or in GIT for review.
 
-####Good luck with coding!
